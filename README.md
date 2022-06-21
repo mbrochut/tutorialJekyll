@@ -1,4 +1,4 @@
-# tutorialJekyll
+# tutorial Jekyll
 
 Tutorial to create static website using jekyll
 
@@ -39,7 +39,7 @@ Finally, install Jekyll and Bundler:
 gem install jekyll bundler
 ```
 
-## Set-up
+### 2) Set-up
 
 Create a directory for your website.
 
@@ -88,3 +88,4 @@ Now everything is ready to create our first html file.
 
 ## Liquid
 
+hello.
